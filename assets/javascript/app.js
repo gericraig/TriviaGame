@@ -107,7 +107,7 @@ $(document).ready(function () {
             answers: ["Royal Theater", "Ridglea Theater", "Gotham Theater", "Monarch Theater"],
             values: [false, false, false, true],
             detail: "Thomas and Martha Wayne were walking home from the Monarch Theater with Bruce, when they were gunned down by a mugger who wanted Martha's pearl necklace.",
-            gif: "assets/images/15.webp",
+            gif: "assets/images/15.gif",
         },
 
     ]
